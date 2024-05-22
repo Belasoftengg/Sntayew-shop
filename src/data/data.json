@@ -1,0 +1,165 @@
+{
+  "Header": {
+    "title": "SNTAYEW Shops"
+  },
+  "About": {
+    "paragraph": "Our journey began with a simple idea: to provide exceptional customer service, competitive prices, and a wide range of products to meet the diverse needs of our customers. Over the years, we've grown and evolved, but our commitment to excellence remains unwavering. Our team of experts is dedicated to helping you find the right materials for your project, whether you're building a new home, renovating an existing one, or working on a commercial construction project.",
+    "Why": [
+      "Expert Knowledge",
+      "Wide Range of Products",
+      "Competitive Pricing",
+      "Convenient Location"
+    ],
+    "Why2": [
+      "Exceptional Customer Service",
+      "Fast and Reliable Delivery",
+      "Quality Guarantee",
+      "Free Delivery"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "",
+     
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lumber and timber",
+      "text": " Cut and processed wood products, including dimensional lumber, plywood, MDF, and engineered wood products, used for construction, framing, and finishing."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Pipes and plumbing supplies",
+      "text": "Pipes and Plumbing Supplies: Products used for water distribution, drainage, and gas systems, including copper, PEX, PVC pipes, fittings, valves, and fixtures for residential and commercial construction"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Electrical supplies and wiring",
+      "text": "Electrical Supplies and Wiring: Products used for electrical power distribution, including wire, cable, conduit, connectors, switches, outlets, circuit breakers, and other components for residential and commercial construction."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Drywall and roofing materials",
+      "text": "Drywall and Roofing Materials: Products used for building envelopes, including drywall panels, joint compound, tape, and finishing materials, as well as roofing products such as shingles, underlayment, and flashing for residential and commercial construction"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Building accessories and hardware",
+      "text": "Building Accessories and Hardware: Products used to enhance and complete building projects, including fasteners, nails, screws, anchors, door and window hardware, hinges, latches, and other miscellaneous hardware items."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Special Orders",
+      "text": "We can special order products that are not in stock, ensuring you receive the materials you need for your project. Our team will work with you to source the products you need, ensuring minimal downtime and maximum efficiency."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Love the new website! The selection of materials is so much easier to navigate now. I can quickly find what I need and get back to my project. Thanks for the upgrade!\" ",
+      "name": "Belay"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Your website is so user-friendly! I was able to find exactly what I needed for my project and the prices were competitive. Great job!\" ",
+      "name": "Nati"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I was impressed with the detailed product information on your website. It helped me make an informed decision about the materials I needed for my project. Keep up the good work!\" ",
+      "name": "Balew"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"The website is so easy to use! I can easily find what I need and get a quote. Your customer service is top-notch too!\"",
+      "name": "Mihret"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"I love the new search feature on your website! It's so much faster to find what I need now. Great job on the updates!\"",
+      "name": "Besenat"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"The product reviews on your website are really helpful! I was able to get a better understanding of what to expect from each product before making a purchase.\"",
+      "name": "Babushu"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    }
+  ],
+  "Contact": {
+    "address": "Zenebework Addis Ababa Ethiopia ",
+    "phone": "+251 987 247 90",
+    "email": "sntayewzewda@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": " Product Range",
+      "text": "Lumber and Timber,Roofing and Siding Materials,Plumbing and HVAC Supplies,Electrical and Lighting Supplies,Building Accessories and Hardware"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Awards and Recognition",
+      "text": " We're honored to have received recognition from various industry organizations and publications"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Community Involvement",
+      "text": "At Our Shop we believe that our success is not just about selling products, but also about giving back to the community that supports us."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Customer Reviews",
+      "text": "At Our Shop we're proud of our commitment to providing exceptional customer service and quality products."
+    }
+  ]
+}
